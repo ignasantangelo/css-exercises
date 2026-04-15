@@ -4,3 +4,16 @@
     background-color: rgb(255, 143, 143);
     font-family: Verdana, 'DejaVu Sans', sans-serif;
 }
+
+#second-element {
+    color: rgb(16, 16, 235);
+    font-size: 36px;
+}
+
+.greater-size {
+    font-size: 24px;
+}
+
+#fourth-element {
+    background-color: rgb(103, 151, 103);
+}
